@@ -1,0 +1,57 @@
+
+# Flutter / Dart generated files
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+**/generated/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Android generated files
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/app/build/
+android/build/
+
+# Windows generated files
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/x64/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local secrets
+.env
+.env.*
+!.env.example
+android/key.properties
+*.jks
+*.keystore
+*.pem
+*.key
+
+# Local databases and backups
+*.db
+*.sqlite
+*.sqlite3
+backups/
+private/
+local_data/
+
+# Exclude core folder
+/lib/core/config/

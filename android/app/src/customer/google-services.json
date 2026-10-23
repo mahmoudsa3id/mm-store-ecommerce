@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443085824315",
+    "project_id": "mm-store-eg",
+    "storage_bucket": "mm-store-eg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443085824315:android:285d511cec86d50f4b571e",
+        "android_client_info": {
+          "package_name": "com.example.mm_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi640Zw7hj9dN5PV9v7PjNDWvnLrntEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443085824315:android:273edb533041fc364b571e",
+        "android_client_info": {
+          "package_name": "com.example.mm_store.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbi640Zw7hj9dN5PV9v7PjNDWvnLrntEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
